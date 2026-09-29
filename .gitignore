@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.DS_Store
+*.pyc
+docs/capturas/
+.claude/
+
+# Notas personales y de trabajo (se quedan en el disco, fuera del repositorio)
+CLAUDE.md
+docs/comentarios_mentora.md
+docs/notas_reunion.md
+docs/analisis_descriptivo_v0.md
+docs/dataset_v0_reunion.xlsx

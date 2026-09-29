@@ -1,0 +1,10 @@
+{
+  "origen": "completo",
+  "fuente": "https://analisi.transparenciacatalunya.cat/api/v3/views/q9ct-fkjt/export.csv?accessType=DOWNLOAD",
+  "procesado": "2026-09-21T13:12:05",
+  "municipios": 890,
+  "anios": [
+    2011,
+    2023
+  ]
+}

@@ -1,0 +1,449 @@
+año,indicador,tipo_segmento,segmento,orden_segmento,categoria,orden_categoria,miles,total,pct
+2008,Lengua inicial,Edad,65 años o más,65,Castellano,2,625.7,1174.6,53.269198024859534
+2008,Lengua inicial,Edad,65 años o más,65,Catalán,0,474.0,1174.6,40.35416311935979
+2008,Lengua inicial,Edad,65 años o más,65,Catalán y castellano,1,27.2,1174.6,2.3156819342754984
+2008,Lengua inicial,Edad,65 años o más,65,Otras y no consta,3,35.800000000000004,1174.6,3.0478460752596632
+2008,Lengua inicial,Edad,De 15 a 29 años,15,Castellano,2,681.7,1347.1,50.60500334050925
+2008,Lengua inicial,Edad,De 15 a 29 años,15,Catalán,0,413.1,1347.1,30.665874842253732
+2008,Lengua inicial,Edad,De 15 a 29 años,15,Catalán y castellano,1,71.0,1347.1,5.270581248608122
+2008,Lengua inicial,Edad,De 15 a 29 años,15,Otras y no consta,3,166.3,1347.1,12.345037487937052
+2008,Lengua inicial,Edad,De 30 a 44 años,30,Castellano,2,1053.5,1892.2,55.67593277666209
+2008,Lengua inicial,Edad,De 30 a 44 años,30,Catalán,0,509.1,1892.2,26.905189726244583
+2008,Lengua inicial,Edad,De 30 a 44 años,30,Catalán y castellano,1,79.6,1892.2,4.206743473205791
+2008,Lengua inicial,Edad,De 30 a 44 años,30,Otras y no consta,3,240.6,1892.2,12.715357784589365
+2008,Lengua inicial,Edad,De 45 a 64 años,45,Castellano,2,1028.1,1748.7,58.79224566821066
+2008,Lengua inicial,Edad,De 45 a 64 años,45,Catalán,0,553.3,1748.7,31.640647338022525
+2008,Lengua inicial,Edad,De 45 a 64 años,45,Catalán y castellano,1,58.7,1748.7,3.356779321781895
+2008,Lengua inicial,Edad,De 45 a 64 años,45,Otras y no consta,3,101.3,1748.7,5.792874706925144
+2008,Lengua inicial,Edad,total,99,Castellano,2,3389.0,6162.5,54.99391480730223
+2008,Lengua inicial,Edad,total,99,Catalán,0,1949.5,6162.5,31.634888438133874
+2008,Lengua inicial,Edad,total,99,Catalán y castellano,1,236.5,6162.5,3.8377281947261666
+2008,Lengua inicial,Edad,total,99,Otras y no consta,3,574.6,6162.5,9.324137931034484
+2013,Lengua inicial,Edad,65 años o más,65,Castellano,2,787.8,1338.4,58.86132695756125
+2013,Lengua inicial,Edad,65 años o más,65,Catalán,0,469.0,1338.4,35.0418410041841
+2013,Lengua inicial,Edad,65 años o más,65,Catalán y castellano,1,0.0,1338.4,0.0
+2013,Lengua inicial,Edad,65 años o más,65,Otras y no consta,3,53.5,1338.4,3.997310221159593
+2013,Lengua inicial,Edad,De 15 a 29 años,15,Castellano,2,519.1,1126.7,46.072601402325375
+2013,Lengua inicial,Edad,De 15 a 29 años,15,Catalán,0,409.2,1126.7,36.318452116801275
+2013,Lengua inicial,Edad,De 15 a 29 años,15,Catalán y castellano,1,45.1,1126.7,4.002840152658205
+2013,Lengua inicial,Edad,De 15 a 29 años,15,Otras y no consta,3,140.4,1126.7,12.461169787876099
+2013,Lengua inicial,Edad,De 30 a 44 años,30,Castellano,2,1007.0,1863.6,54.03520068684268
+2013,Lengua inicial,Edad,De 30 a 44 años,30,Catalán,0,490.5,1863.6,26.32002575660013
+2013,Lengua inicial,Edad,De 30 a 44 años,30,Catalán y castellano,1,47.4,1863.6,2.5434642627173214
+2013,Lengua inicial,Edad,De 30 a 44 años,30,Otras y no consta,3,303.9,1863.6,16.307147456535738
+2013,Lengua inicial,Edad,De 45 a 64 años,45,Castellano,2,1134.5,1925.2,58.92894244753791
+2013,Lengua inicial,Edad,De 45 a 64 años,45,Catalán,0,571.3,1925.2,29.67483897776854
+2013,Lengua inicial,Edad,De 45 a 64 años,45,Catalán y castellano,1,44.3,1925.2,2.301059630168294
+2013,Lengua inicial,Edad,De 45 a 64 años,45,Otras y no consta,3,150.8,1925.2,7.832952420527738
+2013,Lengua inicial,Edad,total,99,Castellano,2,3448.5,6253.8,55.142473376187276
+2013,Lengua inicial,Edad,total,99,Catalán,0,1940.0,6253.8,31.02113914739838
+2013,Lengua inicial,Edad,total,99,Catalán y castellano,1,152.7,6253.8,2.4417154370142953
+2013,Lengua inicial,Edad,total,99,Otras y no consta,3,712.4,6253.8,11.391473983817837
+2018,Lengua inicial,Edad,65 años o más,65,Castellano,2,759.0,1432.1,52.99909224216186
+2018,Lengua inicial,Edad,65 años o más,65,Catalán,0,549.1,1432.1,38.34229453250472
+2018,Lengua inicial,Edad,65 años o más,65,Catalán y castellano,1,28.9,1432.1,2.0180155017107744
+2018,Lengua inicial,Edad,65 años o más,65,Otras y no consta,3,70.60000000000001,1432.1,4.929823336359194
+2018,Lengua inicial,Edad,De 15 a 29 años,15,Castellano,2,551.1,1168.0,47.18321917808219
+2018,Lengua inicial,Edad,De 15 a 29 años,15,Catalán,0,393.3,1168.0,33.67294520547945
+2018,Lengua inicial,Edad,De 15 a 29 años,15,Catalán y castellano,1,47.3,1168.0,4.049657534246575
+2018,Lengua inicial,Edad,De 15 a 29 años,15,Otras y no consta,3,166.20000000000002,1168.0,14.229452054794523
+2018,Lengua inicial,Edad,De 30 a 44 años,30,Castellano,2,869.9,1693.7,51.36092578378697
+2018,Lengua inicial,Edad,De 30 a 44 años,30,Catalán,0,422.9,1693.7,24.969002774989665
+2018,Lengua inicial,Edad,De 30 a 44 años,30,Catalán y castellano,1,53.9,1693.7,3.18238176772746
+2018,Lengua inicial,Edad,De 30 a 44 años,30,Otras y no consta,3,346.9,1693.7,20.481785440160593
+2018,Lengua inicial,Edad,De 45 a 64 años,45,Castellano,2,1186.0,2092.8,56.670489296636084
+2018,Lengua inicial,Edad,De 45 a 64 años,45,Catalán,0,645.1,2092.8,30.82473241590214
+2018,Lengua inicial,Edad,De 45 a 64 años,45,Catalán y castellano,1,46.2,2092.8,2.2075688073394497
+2018,Lengua inicial,Edad,De 45 a 64 años,45,Otras y no consta,3,204.6,2092.8,9.77637614678899
+2018,Lengua inicial,Edad,total,99,Castellano,2,3366.0,6386.6,52.70409920771615
+2018,Lengua inicial,Edad,total,99,Catalán,0,2010.4,6386.6,31.47840791657533
+2018,Lengua inicial,Edad,total,99,Catalán y castellano,1,176.4,6386.6,2.7620330066075844
+2018,Lengua inicial,Edad,total,99,Otras y no consta,3,833.8,6386.6,13.05545986910093
+2023,Lengua inicial,Edad,65 años o más,65,Castellano,2,787.7,1529.2,51.510593774522626
+2023,Lengua inicial,Edad,65 años o más,65,Catalán,0,528.9,1529.2,34.58671200627779
+2023,Lengua inicial,Edad,65 años o más,65,Catalán y castellano,1,68.4,1529.2,4.4729270206644
+2023,Lengua inicial,Edad,65 años o más,65,Otras y no consta,3,121.39999999999999,1529.2,7.93879152498038
+2023,Lengua inicial,Edad,De 15 a 29 años,15,Castellano,2,584.0,1313.4,44.464747982335915
+2023,Lengua inicial,Edad,De 15 a 29 años,15,Catalán,0,406.0,1313.4,30.912136439774628
+2023,Lengua inicial,Edad,De 15 a 29 años,15,Catalán y castellano,1,93.2,1313.4,7.096086493071417
+2023,Lengua inicial,Edad,De 15 a 29 años,15,Otras y no consta,3,195.1,1313.4,14.854575909852292
+2023,Lengua inicial,Edad,De 30 a 44 años,30,Castellano,2,775.4,1621.7,47.814022322254424
+2023,Lengua inicial,Edad,De 30 a 44 años,30,Catalán,0,372.0,1621.7,22.93889128692113
+2023,Lengua inicial,Edad,De 30 a 44 años,30,Catalán y castellano,1,87.5,1621.7,5.3955725473268785
+2023,Lengua inicial,Edad,De 30 a 44 años,30,Otras y no consta,3,358.8,1621.7,22.124930628352963
+2023,Lengua inicial,Edad,De 45 a 64 años,45,Castellano,2,1188.2,2320.8,51.197862805928985
+2023,Lengua inicial,Edad,De 45 a 64 años,45,Catalán,0,660.4,2320.8,28.455704929334708
+2023,Lengua inicial,Edad,De 45 a 64 años,45,Catalán y castellano,1,129.7,2320.8,5.588590141330575
+2023,Lengua inicial,Edad,De 45 a 64 años,45,Otras y no consta,3,320.5,2320.8,13.809893140296447
+2023,Lengua inicial,Edad,total,99,Castellano,2,3335.4,6785.1,49.15771322456559
+2023,Lengua inicial,Edad,total,99,Catalán,0,1967.3,6785.1,28.99441423118303
+2023,Lengua inicial,Edad,total,99,Catalán y castellano,1,378.7,6785.1,5.5813473640771685
+2023,Lengua inicial,Edad,total,99,Otras y no consta,3,1093.8,6785.1,16.12061723482336
+2008,Lengua inicial,Lugar de nacimiento,Cataluña,1,Castellano,2,1493.4,3614.3,41.31920427191987
+2008,Lengua inicial,Lugar de nacimiento,Cataluña,1,Catalán,0,1884.8,3614.3,52.14841048059098
+2008,Lengua inicial,Lugar de nacimiento,Cataluña,1,Catalán y castellano,1,213.4,3614.3,5.9043244888360125
+2008,Lengua inicial,Lugar de nacimiento,Cataluña,1,Otras y no consta,3,1.9,3614.3,0.0525689621780151
+2008,Lengua inicial,Lugar de nacimiento,Extranjero,3,Castellano,2,514.4,1050.1,48.98581087515475
+2008,Lengua inicial,Lugar de nacimiento,Extranjero,3,Catalán,0,16.1,1050.1,1.5331873154937627
+2008,Lengua inicial,Lugar de nacimiento,Extranjero,3,Catalán y castellano,1,0.0,1050.1,0.0
+2008,Lengua inicial,Lugar de nacimiento,Extranjero,3,Otras y no consta,3,513.1,1050.1,48.86201314160557
+2008,Lengua inicial,Lugar de nacimiento,Resto de España,2,Castellano,2,1381.2,1498.2,92.19062875450541
+2008,Lengua inicial,Lugar de nacimiento,Resto de España,2,Catalán,0,48.6,1498.2,3.2438926712054466
+2008,Lengua inicial,Lugar de nacimiento,Resto de España,2,Catalán y castellano,1,17.4,1498.2,1.161393672406888
+2008,Lengua inicial,Lugar de nacimiento,Resto de España,2,Otras y no consta,3,40.1,1498.2,2.6765451875584034
+2008,Lengua inicial,Lugar de nacimiento,total,99,Castellano,2,3389.0,6162.5,54.99391480730223
+2008,Lengua inicial,Lugar de nacimiento,total,99,Catalán,0,1949.5,6162.5,31.634888438133874
+2008,Lengua inicial,Lugar de nacimiento,total,99,Catalán y castellano,1,236.5,6162.5,3.8377281947261666
+2008,Lengua inicial,Lugar de nacimiento,total,99,Otras y no consta,3,574.6,6162.5,9.324137931034484
+2013,Lengua inicial,Lugar de nacimiento,Cataluña,1,Castellano,2,1627.7,3682.2,44.20455162674489
+2013,Lengua inicial,Lugar de nacimiento,Cataluña,1,Catalán,0,1865.6,3682.2,50.66536309814784
+2013,Lengua inicial,Lugar de nacimiento,Cataluña,1,Catalán y castellano,1,143.3,3682.2,3.8916951822280166
+2013,Lengua inicial,Lugar de nacimiento,Cataluña,1,Otras y no consta,3,26.599999999999998,3682.2,0.7223942208462332
+2013,Lengua inicial,Lugar de nacimiento,Extranjero,3,Castellano,2,507.9,1160.8,43.75430737422467
+2013,Lengua inicial,Lugar de nacimiento,Extranjero,3,Catalán,0,28.9,1160.8,2.4896623018607857
+2013,Lengua inicial,Lugar de nacimiento,Extranjero,3,Catalán y castellano,1,0.0,1160.8,0.0
+2013,Lengua inicial,Lugar de nacimiento,Extranjero,3,Otras y no consta,3,601.2,1160.8,51.79186767746382
+2013,Lengua inicial,Lugar de nacimiento,Resto de España,2,Castellano,2,1312.9,1410.8,93.06067479444287
+2013,Lengua inicial,Lugar de nacimiento,Resto de España,2,Catalán,0,45.5,1410.8,3.225120499007655
+2013,Lengua inicial,Lugar de nacimiento,Resto de España,2,Catalán y castellano,1,0.0,1410.8,0.0
+2013,Lengua inicial,Lugar de nacimiento,Resto de España,2,Otras y no consta,3,36.5,1410.8,2.58718457612702
+2013,Lengua inicial,Lugar de nacimiento,total,99,Castellano,2,3448.5,6253.8,55.142473376187276
+2013,Lengua inicial,Lugar de nacimiento,total,99,Catalán,0,1940.0,6253.8,31.02113914739838
+2013,Lengua inicial,Lugar de nacimiento,total,99,Catalán y castellano,1,152.7,6253.8,2.4417154370142953
+2013,Lengua inicial,Lugar de nacimiento,total,99,Otras y no consta,3,712.4,6253.8,11.391473983817837
+2018,Lengua inicial,Lugar de nacimiento,Cataluña,1,Castellano,2,1615.7,3820.0,42.29581151832461
+2018,Lengua inicial,Lugar de nacimiento,Cataluña,1,Catalán,0,1943.6,3820.0,50.879581151832454
+2018,Lengua inicial,Lugar de nacimiento,Cataluña,1,Catalán y castellano,1,163.0,3820.0,4.267015706806283
+2018,Lengua inicial,Lugar de nacimiento,Cataluña,1,Otras y no consta,3,90.5,3820.0,2.369109947643979
+2018,Lengua inicial,Lugar de nacimiento,Extranjero,3,Castellano,2,613.6,1292.8,47.46287128712871
+2018,Lengua inicial,Lugar de nacimiento,Extranjero,3,Catalán,0,14.5,1292.8,1.1215965346534653
+2018,Lengua inicial,Lugar de nacimiento,Extranjero,3,Catalán y castellano,1,0.0,1292.8,0.0
+2018,Lengua inicial,Lugar de nacimiento,Extranjero,3,Otras y no consta,3,664.0,1292.8,51.36138613861386
+2018,Lengua inicial,Lugar de nacimiento,Resto de España,2,Castellano,2,1136.7,1273.7,89.24393499254141
+2018,Lengua inicial,Lugar de nacimiento,Resto de España,2,Catalán,0,52.3,1273.7,4.106147444453168
+2018,Lengua inicial,Lugar de nacimiento,Resto de España,2,Catalán y castellano,1,0.0,1273.7,0.0
+2018,Lengua inicial,Lugar de nacimiento,Resto de España,2,Otras y no consta,3,58.9,1273.7,4.62432283897307
+2018,Lengua inicial,Lugar de nacimiento,total,99,Castellano,2,3366.0,6386.6,52.70409920771615
+2018,Lengua inicial,Lugar de nacimiento,total,99,Catalán,0,2010.4,6386.6,31.47840791657533
+2018,Lengua inicial,Lugar de nacimiento,total,99,Catalán y castellano,1,176.4,6386.6,2.7620330066075844
+2018,Lengua inicial,Lugar de nacimiento,total,99,Otras y no consta,3,833.8,6386.6,13.05545986910093
+2023,Lengua inicial,Lugar de nacimiento,Cataluña,1,Castellano,2,1602.1,3987.7,40.176041327080775
+2023,Lengua inicial,Lugar de nacimiento,Cataluña,1,Catalán,0,1902.2,3987.7,47.70168267422324
+2023,Lengua inicial,Lugar de nacimiento,Cataluña,1,Catalán y castellano,1,342.7,3987.7,8.593926323444592
+2023,Lengua inicial,Lugar de nacimiento,Cataluña,1,Otras y no consta,3,127.0,3987.7,3.1847932392105727
+2023,Lengua inicial,Lugar de nacimiento,Extranjero,3,Castellano,2,775.6,1663.9,46.613378207824994
+2023,Lengua inicial,Lugar de nacimiento,Extranjero,3,Catalán,0,24.9,1663.9,1.4964841637117614
+2023,Lengua inicial,Lugar de nacimiento,Extranjero,3,Catalán y castellano,1,0.0,1663.9,0.0
+2023,Lengua inicial,Lugar de nacimiento,Extranjero,3,Otras y no consta,3,843.1,1663.9,50.6701123865617
+2023,Lengua inicial,Lugar de nacimiento,Resto de España,2,Castellano,2,957.7,1133.4,84.49797070760543
+2023,Lengua inicial,Lugar de nacimiento,Resto de España,2,Catalán,0,40.2,1133.4,3.5468501852832186
+2023,Lengua inicial,Lugar de nacimiento,Resto de España,2,Catalán y castellano,1,27.5,1133.4,2.4263278630668785
+2023,Lengua inicial,Lugar de nacimiento,Resto de España,2,Otras y no consta,3,101.4,1133.4,8.946532556908418
+2023,Lengua inicial,Lugar de nacimiento,total,99,Castellano,2,3335.4,6785.1,49.15771322456559
+2023,Lengua inicial,Lugar de nacimiento,total,99,Catalán,0,1967.3,6785.1,28.99441423118303
+2023,Lengua inicial,Lugar de nacimiento,total,99,Catalán y castellano,1,378.7,6785.1,5.5813473640771685
+2023,Lengua inicial,Lugar de nacimiento,total,99,Otras y no consta,3,1093.8,6785.1,16.12061723482336
+2008,Lengua de identificación,Edad,65 años o más,65,Castellano,2,541.1,1174.6,46.06674612634089
+2008,Lengua de identificación,Edad,65 años o más,65,Catalán,0,532.1,1174.6,45.30052783926444
+2008,Lengua de identificación,Edad,65 años o más,65,Catalán y castellano,1,76.9,1174.6,6.546909586242126
+2008,Lengua de identificación,Edad,65 años o más,65,Otras y no consta,3,19.6,1174.6,1.66865315852205
+2008,Lengua de identificación,Edad,De 15 a 29 años,15,Castellano,2,605.8,1347.1,44.97067775220845
+2008,Lengua de identificación,Edad,De 15 a 29 años,15,Catalán,0,449.3,1347.1,33.35312894365675
+2008,Lengua de identificación,Edad,De 15 a 29 años,15,Catalán y castellano,1,140.3,1347.1,10.4149654814045
+2008,Lengua de identificación,Edad,De 15 a 29 años,15,Otras y no consta,3,135.6,1347.1,10.066067849454384
+2008,Lengua de identificación,Edad,De 30 a 44 años,30,Castellano,2,858.0,1892.2,45.34404396998203
+2008,Lengua de identificación,Edad,De 30 a 44 años,30,Catalán,0,643.3,1892.2,33.99746327026741
+2008,Lengua de identificación,Edad,De 30 a 44 años,30,Catalán y castellano,1,180.4,1892.2,9.533875911637248
+2008,Lengua de identificación,Edad,De 30 a 44 años,30,Otras y no consta,3,194.1,1892.2,10.257900856146286
+2008,Lengua de identificación,Edad,De 45 a 64 años,45,Castellano,2,862.7,1748.7,49.33379081603477
+2008,Lengua de identificación,Edad,De 45 a 64 años,45,Catalán,0,670.6,1748.7,38.34848744781838
+2008,Lengua de identificación,Edad,De 45 a 64 años,45,Catalán y castellano,1,145.2,1748.7,8.303311031051637
+2008,Lengua de identificación,Edad,De 45 a 64 años,45,Otras y no consta,3,64.4,1748.7,3.6827357465545836
+2008,Lengua de identificación,Edad,total,99,Castellano,2,2867.5,6162.5,46.53144016227181
+2008,Lengua de identificación,Edad,total,99,Catalán,0,2295.3,6162.5,37.24624746450304
+2008,Lengua de identificación,Edad,total,99,Catalán y castellano,1,542.8,6162.5,8.808113590263691
+2008,Lengua de identificación,Edad,total,99,Otras y no consta,3,456.3,6162.5,7.4044624746450305
+2013,Lengua de identificación,Edad,65 años o más,65,Castellano,2,687.7,1338.4,51.38224745965332
+2013,Lengua de identificación,Edad,65 años o más,65,Catalán,0,546.3,1338.4,40.817393903167954
+2013,Lengua de identificación,Edad,65 años o más,65,Catalán y castellano,1,57.6,1338.4,4.303646144650329
+2013,Lengua de identificación,Edad,65 años o más,65,Otras y no consta,3,34.7,1338.4,2.5926479378362224
+2013,Lengua de identificación,Edad,De 15 a 29 años,15,Castellano,2,463.8,1126.7,41.1644625898642
+2013,Lengua de identificación,Edad,De 15 a 29 años,15,Catalán,0,442.0,1126.7,39.22960859146179
+2013,Lengua de identificación,Edad,De 15 a 29 años,15,Catalán y castellano,1,91.6,1126.7,8.129936984112895
+2013,Lengua de identificación,Edad,De 15 a 29 años,15,Otras y no consta,3,119.19999999999999,1126.7,10.579568651815034
+2013,Lengua de identificación,Edad,De 30 a 44 años,30,Castellano,2,878.7,1863.6,47.15067611075339
+2013,Lengua de identificación,Edad,De 30 a 44 años,30,Catalán,0,597.1,1863.6,32.04013736853402
+2013,Lengua de identificación,Edad,De 30 a 44 años,30,Catalán y castellano,1,134.9,1863.6,7.238677827860056
+2013,Lengua de identificación,Edad,De 30 a 44 años,30,Otras y no consta,3,245.5,1863.6,13.173427774200471
+2013,Lengua de identificación,Edad,De 45 a 64 años,45,Castellano,2,943.4,1925.2,49.00270101807604
+2013,Lengua de identificación,Edad,De 45 a 64 años,45,Catalán,0,689.7,1925.2,35.8248493662996
+2013,Lengua de identificación,Edad,De 45 a 64 años,45,Catalán y castellano,1,153.5,1925.2,7.973197589860794
+2013,Lengua de identificación,Edad,De 45 a 64 años,45,Otras y no consta,3,122.20000000000002,1925.2,6.347392478703512
+2013,Lengua de identificación,Edad,total,99,Castellano,2,2973.6,6253.8,47.54869039623909
+2013,Lengua de identificación,Edad,total,99,Catalán,0,2275.1,6253.8,36.37948127538456
+2013,Lengua de identificación,Edad,total,99,Catalán y castellano,1,437.6,6253.8,6.997345613866769
+2013,Lengua de identificación,Edad,total,99,Otras y no consta,3,567.5,6253.8,9.074482714509578
+2018,Lengua de identificación,Edad,65 años o más,65,Castellano,2,671.6,1432.1,46.89616646882202
+2018,Lengua de identificación,Edad,65 años o más,65,Catalán,0,622.0,1432.1,43.432721178688645
+2018,Lengua de identificación,Edad,65 años o más,65,Catalán y castellano,1,77.0,1432.1,5.376719502828015
+2018,Lengua de identificación,Edad,65 años o más,65,Otras y no consta,3,50.2,1432.1,3.505341805739823
+2018,Lengua de identificación,Edad,De 15 a 29 años,15,Castellano,2,506.0,1168.0,43.321917808219176
+2018,Lengua de identificación,Edad,De 15 a 29 años,15,Catalán,0,431.9,1168.0,36.977739726027394
+2018,Lengua de identificación,Edad,De 15 a 29 años,15,Catalán y castellano,1,102.9,1168.0,8.809931506849315
+2018,Lengua de identificación,Edad,De 15 a 29 años,15,Otras y no consta,3,121.6,1168.0,10.410958904109588
+2018,Lengua de identificación,Edad,De 30 a 44 años,30,Castellano,2,784.9,1693.7,46.34232744878077
+2018,Lengua de identificación,Edad,De 30 a 44 años,30,Catalán,0,522.5,1693.7,30.849619176949872
+2018,Lengua de identificación,Edad,De 30 a 44 años,30,Catalán y castellano,1,106.7,1693.7,6.2998169687666055
+2018,Lengua de identificación,Edad,De 30 a 44 años,30,Otras y no consta,3,271.7,1693.7,16.041801972013932
+2018,Lengua de identificación,Edad,De 45 a 64 años,45,Castellano,2,1016.3,2092.8,48.56173547400611
+2018,Lengua de identificación,Edad,De 45 a 64 años,45,Catalán,0,744.1,2092.8,35.5552370030581
+2018,Lengua de identificación,Edad,De 45 a 64 años,45,Catalán y castellano,1,154.0,2092.8,7.358562691131498
+2018,Lengua de identificación,Edad,De 45 a 64 años,45,Otras y no consta,3,170.5,2092.8,8.146980122324159
+2018,Lengua de identificación,Edad,total,99,Castellano,2,2978.9,6386.6,46.64297122099396
+2018,Lengua de identificación,Edad,total,99,Catalán,0,2320.6,6386.6,36.33545235336486
+2018,Lengua de identificación,Edad,total,99,Catalán y castellano,1,440.6,6386.6,6.898819403125294
+2018,Lengua de identificación,Edad,total,99,Otras y no consta,3,646.4,6386.6,10.121191244167475
+2023,Lengua de identificación,Edad,65 años o más,65,Castellano,2,672.9,1529.2,44.00340047083442
+2023,Lengua de identificación,Edad,65 años o más,65,Catalán,0,561.6,1529.2,36.72508501177086
+2023,Lengua de identificación,Edad,65 años o más,65,Catalán y castellano,1,176.1,1529.2,11.515825268114046
+2023,Lengua de identificación,Edad,65 años o más,65,Otras y no consta,3,102.5,1529.2,6.702851164007324
+2023,Lengua de identificación,Edad,De 15 a 29 años,15,Castellano,2,497.1,1313.4,37.848332571950664
+2023,Lengua de identificación,Edad,De 15 a 29 años,15,Catalán,0,376.6,1313.4,28.673671387239224
+2023,Lengua de identificación,Edad,De 15 a 29 años,15,Catalán y castellano,1,222.6,1313.4,16.948378254910917
+2023,Lengua de identificación,Edad,De 15 a 29 años,15,Otras y no consta,3,198.4,1313.4,15.105832191259328
+2023,Lengua de identificación,Edad,De 30 a 44 años,30,Castellano,2,657.2,1621.7,40.525374606894
+2023,Lengua de identificación,Edad,De 30 a 44 años,30,Catalán,0,389.1,1621.7,23.993340321884443
+2023,Lengua de identificación,Edad,De 30 a 44 años,30,Catalán y castellano,1,222.4,1621.7,13.714003823148548
+2023,Lengua de identificación,Edad,De 30 a 44 años,30,Otras y no consta,3,314.5,1621.7,19.39322932724918
+2023,Lengua de identificación,Edad,De 45 a 64 años,45,Castellano,2,915.7,2320.8,39.45622199241641
+2023,Lengua de identificación,Edad,De 45 a 64 años,45,Catalán,0,705.5,2320.8,30.39900034470872
+2023,Lengua de identificación,Edad,De 45 a 64 años,45,Catalán y castellano,1,370.8,2320.8,15.977249224405377
+2023,Lengua de identificación,Edad,De 45 a 64 años,45,Otras y no consta,3,319.59999999999997,2320.8,13.77111340916925
+2023,Lengua de identificación,Edad,total,99,Castellano,2,2742.9,6785.1,40.425343767962154
+2023,Lengua de identificación,Edad,total,99,Catalán,0,2032.8,6785.1,29.959764778706283
+2023,Lengua de identificación,Edad,total,99,Catalán y castellano,1,991.9,6785.1,14.618797070050551
+2023,Lengua de identificación,Edad,total,99,Otras y no consta,3,1017.4,6785.1,14.994620565651203
+2008,Lengua de identificación,Lugar de nacimiento,Cataluña,1,Castellano,2,1055.1,3614.3,29.192374733696703
+2008,Lengua de identificación,Lugar de nacimiento,Cataluña,1,Catalán,0,2128.1,3614.3,58.88000442685997
+2008,Lengua de identificación,Lugar de nacimiento,Cataluña,1,Catalán y castellano,1,422.0,3614.3,11.67584317848546
+2008,Lengua de identificación,Lugar de nacimiento,Cataluña,1,Otras y no consta,3,2.0,3614.3,0.05533574966106853
+2008,Lengua de identificación,Lugar de nacimiento,Extranjero,3,Castellano,2,552.5,1050.1,52.61403675840397
+2008,Lengua de identificación,Lugar de nacimiento,Extranjero,3,Catalán,0,36.5,1050.1,3.475859441957909
+2008,Lengua de identificación,Lugar de nacimiento,Extranjero,3,Catalán y castellano,1,23.8,1050.1,2.266450814208171
+2008,Lengua de identificación,Lugar de nacimiento,Extranjero,3,Otras y no consta,3,437.1,1050.1,41.624607180268555
+2008,Lengua de identificación,Lugar de nacimiento,Resto de España,2,Castellano,2,1260.0,1498.2,84.10092110532639
+2008,Lengua de identificación,Lugar de nacimiento,Resto de España,2,Catalán,0,130.6,1498.2,8.717127219329862
+2008,Lengua de identificación,Lugar de nacimiento,Resto de España,2,Catalán y castellano,1,96.9,1498.2,6.467761313576292
+2008,Lengua de identificación,Lugar de nacimiento,Resto de España,2,Otras y no consta,3,7.3,1498.2,0.48725136830863697
+2008,Lengua de identificación,Lugar de nacimiento,total,99,Castellano,2,2867.5,6162.5,46.53144016227181
+2008,Lengua de identificación,Lugar de nacimiento,total,99,Catalán,0,2295.3,6162.5,37.24624746450304
+2008,Lengua de identificación,Lugar de nacimiento,total,99,Catalán y castellano,1,542.8,6162.5,8.808113590263691
+2008,Lengua de identificación,Lugar de nacimiento,total,99,Otras y no consta,3,456.3,6162.5,7.4044624746450305
+2013,Lengua de identificación,Lugar de nacimiento,Cataluña,1,Castellano,2,1183.0,3682.2,32.127532453424585
+2013,Lengua de identificación,Lugar de nacimiento,Cataluña,1,Catalán,0,2119.7,3682.2,57.56612894465265
+2013,Lengua de identificación,Lugar de nacimiento,Cataluña,1,Catalán y castellano,1,343.6,3682.2,9.331377980555104
+2013,Lengua de identificación,Lugar de nacimiento,Cataluña,1,Otras y no consta,3,2.2,3682.2,0.059746890445929075
+2013,Lengua de identificación,Lugar de nacimiento,Extranjero,3,Castellano,2,582.2,1160.8,50.155065472088225
+2013,Lengua de identificación,Lugar de nacimiento,Extranjero,3,Catalán,0,43.4,1160.8,3.7388008270158513
+2013,Lengua de identificación,Lugar de nacimiento,Extranjero,3,Catalán y castellano,1,30.1,1160.8,2.593039283252929
+2013,Lengua de identificación,Lugar de nacimiento,Extranjero,3,Otras y no consta,3,494.09999999999997,1160.8,42.565472088215024
+2013,Lengua de identificación,Lugar de nacimiento,Resto de España,2,Castellano,2,1208.3,1410.8,85.6464417351857
+2013,Lengua de identificación,Lugar de nacimiento,Resto de España,2,Catalán,0,112.1,1410.8,7.945846328324355
+2013,Lengua de identificación,Lugar de nacimiento,Resto de España,2,Catalán y castellano,1,64.0,1410.8,4.536433229373405
+2013,Lengua de identificación,Lugar de nacimiento,Resto de España,2,Otras y no consta,3,15.3,1410.8,1.08449106889708
+2013,Lengua de identificación,Lugar de nacimiento,total,99,Castellano,2,2973.6,6253.8,47.54869039623909
+2013,Lengua de identificación,Lugar de nacimiento,total,99,Catalán,0,2275.1,6253.8,36.37948127538456
+2013,Lengua de identificación,Lugar de nacimiento,total,99,Catalán y castellano,1,437.6,6253.8,6.997345613866769
+2013,Lengua de identificación,Lugar de nacimiento,total,99,Otras y no consta,3,567.5,6253.8,9.074482714509578
+2018,Lengua de identificación,Lugar de nacimiento,Cataluña,1,Castellano,2,1229.4,3820.0,32.183246073298434
+2018,Lengua de identificación,Lugar de nacimiento,Cataluña,1,Catalán,0,2188.7,3820.0,57.295811518324605
+2018,Lengua de identificación,Lugar de nacimiento,Cataluña,1,Catalán y castellano,1,357.4,3820.0,9.356020942408376
+2018,Lengua de identificación,Lugar de nacimiento,Cataluña,1,Otras y no consta,3,19.6,3820.0,0.5130890052356021
+2018,Lengua de identificación,Lugar de nacimiento,Extranjero,3,Castellano,2,682.1,1292.8,52.76144801980198
+2018,Lengua de identificación,Lugar de nacimiento,Extranjero,3,Catalán,0,29.3,1292.8,2.2663985148514856
+2018,Lengua de identificación,Lugar de nacimiento,Extranjero,3,Catalán y castellano,1,19.3,1292.8,1.4928836633663367
+2018,Lengua de identificación,Lugar de nacimiento,Extranjero,3,Otras y no consta,3,551.2,1292.8,42.63613861386139
+2018,Lengua de identificación,Lugar de nacimiento,Resto de España,2,Castellano,2,1067.4,1273.7,83.80309335008243
+2018,Lengua de identificación,Lugar de nacimiento,Resto de España,2,Catalán,0,102.6,1273.7,8.055272042082121
+2018,Lengua de identificación,Lugar de nacimiento,Resto de España,2,Catalán y castellano,1,63.9,1273.7,5.016879956033603
+2018,Lengua de identificación,Lugar de nacimiento,Resto de España,2,Otras y no consta,3,33.3,1273.7,2.614430399623145
+2018,Lengua de identificación,Lugar de nacimiento,total,99,Castellano,2,2978.9,6386.6,46.64297122099396
+2018,Lengua de identificación,Lugar de nacimiento,total,99,Catalán,0,2320.6,6386.6,36.33545235336486
+2018,Lengua de identificación,Lugar de nacimiento,total,99,Catalán y castellano,1,440.6,6386.6,6.898819403125294
+2018,Lengua de identificación,Lugar de nacimiento,total,99,Otras y no consta,3,646.4,6386.6,10.121191244167475
+2023,Lengua de identificación,Lugar de nacimiento,Cataluña,1,Castellano,2,1070.1,3987.7,26.835017679364043
+2023,Lengua de identificación,Lugar de nacimiento,Cataluña,1,Catalán,0,1925.9,3987.7,48.29601023146175
+2023,Lengua de identificación,Lugar de nacimiento,Cataluña,1,Catalán y castellano,1,811.9,3987.7,20.360107330039874
+2023,Lengua de identificación,Lugar de nacimiento,Cataluña,1,Otras y no consta,3,161.2,3987.7,4.042430473706648
+2023,Lengua de identificación,Lugar de nacimiento,Extranjero,3,Castellano,2,809.3,1663.9,48.638740308912794
+2023,Lengua de identificación,Lugar de nacimiento,Extranjero,3,Catalán,0,32.4,1663.9,1.9472324057936172
+2023,Lengua de identificación,Lugar de nacimiento,Extranjero,3,Catalán y castellano,1,63.4,1663.9,3.810325139731955
+2023,Lengua de identificación,Lugar de nacimiento,Extranjero,3,Otras y no consta,3,746.4,1663.9,44.85846505198629
+2023,Lengua de identificación,Lugar de nacimiento,Resto de España,2,Castellano,2,863.5,1133.4,76.18669490029998
+2023,Lengua de identificación,Lugar de nacimiento,Resto de España,2,Catalán,0,74.5,1133.4,6.573142756308452
+2023,Lengua de identificación,Lugar de nacimiento,Resto de España,2,Catalán y castellano,1,116.6,1133.4,10.287630139403563
+2023,Lengua de identificación,Lugar de nacimiento,Resto de España,2,Otras y no consta,3,52.7,1133.4,4.649726486677254
+2023,Lengua de identificación,Lugar de nacimiento,total,99,Castellano,2,2742.9,6785.1,40.425343767962154
+2023,Lengua de identificación,Lugar de nacimiento,total,99,Catalán,0,2032.8,6785.1,29.959764778706283
+2023,Lengua de identificación,Lugar de nacimiento,total,99,Catalán y castellano,1,991.9,6785.1,14.618797070050551
+2023,Lengua de identificación,Lugar de nacimiento,total,99,Otras y no consta,3,1017.4,6785.1,14.994620565651203
+2008,Lengua de identificación,Sexo,Hombres,1,Castellano,2,1399.1,3034.2,46.11100125238943
+2008,Lengua de identificación,Sexo,Hombres,1,Catalán,0,1088.6,3034.2,35.87766132753279
+2008,Lengua de identificación,Sexo,Hombres,1,Catalán y castellano,1,275.0,3034.2,9.063344538922946
+2008,Lengua de identificación,Sexo,Hombres,1,Otras y no consta,3,245.2,3034.2,8.08120756706875
+2008,Lengua de identificación,Sexo,Mujeres,2,Castellano,2,1468.4,3128.4,46.93773174785833
+2008,Lengua de identificación,Sexo,Mujeres,2,Catalán,0,1206.7,3128.4,38.572433192686354
+2008,Lengua de identificación,Sexo,Mujeres,2,Catalán y castellano,1,267.8,3128.4,8.560286408387674
+2008,Lengua de identificación,Sexo,Mujeres,2,Otras y no consta,3,168.5,3128.4,5.386139879810766
+2008,Lengua de identificación,Sexo,total,99,Castellano,2,2867.5,6162.5,46.53144016227181
+2008,Lengua de identificación,Sexo,total,99,Catalán,0,2295.3,6162.5,37.24624746450304
+2008,Lengua de identificación,Sexo,total,99,Catalán y castellano,1,542.8,6162.5,8.808113590263691
+2008,Lengua de identificación,Sexo,total,99,Otras y no consta,3,456.3,6162.5,7.4044624746450305
+2013,Lengua de identificación,Sexo,Hombres,1,Castellano,2,1391.1,3044.9,45.68622943282209
+2013,Lengua de identificación,Sexo,Hombres,1,Catalán,0,1119.3,3044.9,36.75982790896252
+2013,Lengua de identificación,Sexo,Hombres,1,Catalán y castellano,1,215.3,3044.9,7.070839764852704
+2013,Lengua de identificación,Sexo,Hombres,1,Otras y no consta,3,319.0,3044.9,10.476534533153798
+2013,Lengua de identificación,Sexo,Mujeres,2,Castellano,2,1582.5,3208.9,49.31596497242046
+2013,Lengua de identificación,Sexo,Mujeres,2,Catalán,0,1155.8,3208.9,36.018573342890086
+2013,Lengua de identificación,Sexo,Mujeres,2,Catalán y castellano,1,222.3,3208.9,6.927607591386456
+2013,Lengua de identificación,Sexo,Mujeres,2,Otras y no consta,3,239.1,3208.9,7.451151484932531
+2013,Lengua de identificación,Sexo,total,99,Castellano,2,2973.6,6253.8,47.54869039623909
+2013,Lengua de identificación,Sexo,total,99,Catalán,0,2275.1,6253.8,36.37948127538456
+2013,Lengua de identificación,Sexo,total,99,Catalán y castellano,1,437.6,6253.8,6.997345613866769
+2013,Lengua de identificación,Sexo,total,99,Otras y no consta,3,567.5,6253.8,9.074482714509578
+2018,Lengua de identificación,Sexo,Hombres,1,Castellano,2,1447.2,3094.9,46.76080002584897
+2018,Lengua de identificación,Sexo,Hombres,1,Catalán,0,1123.8,3094.9,36.31135093217874
+2018,Lengua de identificación,Sexo,Hombres,1,Catalán y castellano,1,193.9,3094.9,6.265145885165918
+2018,Lengua de identificación,Sexo,Hombres,1,Otras y no consta,3,330.0,3094.9,10.662703156806359
+2018,Lengua de identificación,Sexo,Mujeres,2,Castellano,2,1531.7,3291.7,46.532187015827695
+2018,Lengua de identificación,Sexo,Mujeres,2,Catalán,0,1196.8,3291.7,36.35811282923717
+2018,Lengua de identificación,Sexo,Mujeres,2,Catalán y castellano,1,246.7,3291.7,7.49460764954279
+2018,Lengua de identificación,Sexo,Mujeres,2,Otras y no consta,3,304.8,3291.7,9.259653066804388
+2018,Lengua de identificación,Sexo,total,99,Castellano,2,2978.9,6386.6,46.64297122099396
+2018,Lengua de identificación,Sexo,total,99,Catalán,0,2320.6,6386.6,36.33545235336486
+2018,Lengua de identificación,Sexo,total,99,Catalán y castellano,1,440.6,6386.6,6.898819403125294
+2018,Lengua de identificación,Sexo,total,99,Otras y no consta,3,646.4,6386.6,10.121191244167475
+2023,Lengua de identificación,Sexo,Hombres,1,Castellano,2,1289.6,3312.0,38.93719806763285
+2023,Lengua de identificación,Sexo,Hombres,1,Catalán,0,1012.8,3312.0,30.579710144927535
+2023,Lengua de identificación,Sexo,Hombres,1,Catalán y castellano,1,478.2,3312.0,14.43840579710145
+2023,Lengua de identificación,Sexo,Hombres,1,Otras y no consta,3,531.5,3312.0,16.04770531400966
+2023,Lengua de identificación,Sexo,Mujeres,2,Castellano,2,1453.4,3473.0,41.84854592571264
+2023,Lengua de identificación,Sexo,Mujeres,2,Catalán,0,1020.0,3473.0,29.369421249640084
+2023,Lengua de identificación,Sexo,Mujeres,2,Catalán y castellano,1,513.7,3473.0,14.791246760725599
+2023,Lengua de identificación,Sexo,Mujeres,2,Otras y no consta,3,473.3,3473.0,13.627987330837893
+2023,Lengua de identificación,Sexo,total,99,Castellano,2,2742.9,6785.1,40.425343767962154
+2023,Lengua de identificación,Sexo,total,99,Catalán,0,2032.8,6785.1,29.959764778706283
+2023,Lengua de identificación,Sexo,total,99,Catalán y castellano,1,991.9,6785.1,14.618797070050551
+2023,Lengua de identificación,Sexo,total,99,Otras y no consta,3,1017.4,6785.1,14.994620565651203
+2008,Lengua habitual,Lugar de nacimiento,Cataluña,1,Castellano,2,1021.6,3614.3,28.265500926873806
+2008,Lengua habitual,Lugar de nacimiento,Cataluña,1,Catalán,0,2024.5,3614.3,56.013612594416614
+2008,Lengua habitual,Lugar de nacimiento,Cataluña,1,Catalán y castellano,1,558.2,3614.3,15.444207730404228
+2008,Lengua habitual,Lugar de nacimiento,Cataluña,1,Otras y no consta,3,1.8,3614.3,0.04980217469496168
+2008,Lengua habitual,Lugar de nacimiento,Extranjero,3,Castellano,2,591.0,1050.1,56.28035425197601
+2008,Lengua habitual,Lugar de nacimiento,Extranjero,3,Catalán,0,44.1,1050.1,4.199600038091611
+2008,Lengua habitual,Lugar de nacimiento,Extranjero,3,Catalán y castellano,1,35.3,1050.1,3.3615846109894294
+2008,Lengua habitual,Lugar de nacimiento,Extranjero,3,Otras y no consta,3,379.59999999999997,1050.1,36.14893819636225
+2008,Lengua habitual,Lugar de nacimiento,Resto de España,2,Castellano,2,1217.4,1498.2,81.25750901081298
+2008,Lengua habitual,Lugar de nacimiento,Resto de España,2,Catalán,0,128.0,1498.2,8.54358563609665
+2008,Lengua habitual,Lugar de nacimiento,Resto de España,2,Catalán y castellano,1,141.9,1498.2,9.47136563876652
+2008,Lengua habitual,Lugar de nacimiento,Resto de España,2,Otras y no consta,3,0.0,1498.2,0.0
+2008,Lengua habitual,Lugar de nacimiento,total,99,Castellano,2,2830.0,6162.5,45.92292089249493
+2008,Lengua habitual,Lugar de nacimiento,total,99,Catalán,0,2196.6,6162.5,35.644624746450305
+2008,Lengua habitual,Lugar de nacimiento,total,99,Catalán y castellano,1,735.4,6162.5,11.933468559837728
+2008,Lengua habitual,Lugar de nacimiento,total,99,Otras y no consta,3,400.5,6162.5,6.498985801217039
+2013,Lengua habitual,Lugar de nacimiento,Cataluña,1,Castellano,2,1251.1,3682.2,33.97697028950084
+2013,Lengua habitual,Lugar de nacimiento,Cataluña,1,Catalán,0,2082.0,3682.2,56.54228450382923
+2013,Lengua habitual,Lugar de nacimiento,Cataluña,1,Catalán y castellano,1,325.0,3682.2,8.826245179512249
+2013,Lengua habitual,Lugar de nacimiento,Cataluña,1,Otras y no consta,3,1.4,3682.2,0.038020748465591225
+2013,Lengua habitual,Lugar de nacimiento,Extranjero,3,Castellano,2,720.6,1160.8,62.07787732598209
+2013,Lengua habitual,Lugar de nacimiento,Extranjero,3,Catalán,0,64.6,1160.8,5.565127498277049
+2013,Lengua habitual,Lugar de nacimiento,Extranjero,3,Catalán y castellano,1,27.0,1160.8,2.3259820813232253
+2013,Lengua habitual,Lugar de nacimiento,Extranjero,3,Otras y no consta,3,339.7,1160.8,29.264300482425913
+2013,Lengua habitual,Lugar de nacimiento,Resto de España,2,Castellano,2,1200.9,1410.8,85.12191664303941
+2013,Lengua habitual,Lugar de nacimiento,Resto de España,2,Catalán,0,123.1,1410.8,8.725545789622908
+2013,Lengua habitual,Lugar de nacimiento,Resto de España,2,Catalán y castellano,1,74.6,1410.8,5.287779982988375
+2013,Lengua habitual,Lugar de nacimiento,Resto de España,2,Otras y no consta,3,0.0,1410.8,0.0
+2013,Lengua habitual,Lugar de nacimiento,total,99,Castellano,2,3172.6,6253.8,50.73075570053407
+2013,Lengua habitual,Lugar de nacimiento,total,99,Catalán,0,2269.6,6253.8,36.2915347468739
+2013,Lengua habitual,Lugar de nacimiento,total,99,Catalán y castellano,1,426.6,6253.8,6.821452556845438
+2013,Lengua habitual,Lugar de nacimiento,total,99,Otras y no consta,3,384.8,6253.8,6.15305894016438
+2018,Lengua habitual,Lugar de nacimiento,Cataluña,1,Castellano,2,1308.6,3820.0,34.2565445026178
+2018,Lengua habitual,Lugar de nacimiento,Cataluña,1,Catalán,0,2117.1,3820.0,55.42146596858638
+2018,Lengua habitual,Lugar de nacimiento,Cataluña,1,Catalán y castellano,1,349.6,3820.0,9.151832460732985
+2018,Lengua habitual,Lugar de nacimiento,Cataluña,1,Otras y no consta,3,25.200000000000003,3820.0,0.6596858638743456
+2018,Lengua habitual,Lugar de nacimiento,Extranjero,3,Castellano,2,764.7,1292.8,59.15068069306931
+2018,Lengua habitual,Lugar de nacimiento,Extranjero,3,Catalán,0,59.1,1292.8,4.571472772277228
+2018,Lengua habitual,Lugar de nacimiento,Extranjero,3,Catalán y castellano,1,37.5,1292.8,2.900680693069307
+2018,Lengua habitual,Lugar de nacimiento,Extranjero,3,Otras y no consta,3,419.6,1292.8,32.456683168316836
+2018,Lengua habitual,Lugar de nacimiento,Resto de España,2,Castellano,2,1031.3,1273.7,80.9688309649054
+2018,Lengua habitual,Lugar de nacimiento,Resto de España,2,Catalán,0,128.9,1273.7,10.120122477820523
+2018,Lengua habitual,Lugar de nacimiento,Resto de España,2,Catalán y castellano,1,87.1,1273.7,6.8383449791944715
+2018,Lengua habitual,Lugar de nacimiento,Resto de España,2,Otras y no consta,3,0.0,1273.7,0.0
+2018,Lengua habitual,Lugar de nacimiento,total,99,Castellano,2,3104.6,6386.6,48.61115460495412
+2018,Lengua habitual,Lugar de nacimiento,total,99,Catalán,0,2305.1,6386.6,36.092756709360216
+2018,Lengua habitual,Lugar de nacimiento,total,99,Catalán y castellano,1,474.2,6386.6,7.424920928193404
+2018,Lengua habitual,Lugar de nacimiento,total,99,Otras y no consta,3,502.8,6386.6,7.872733535840666
+2023,Lengua habitual,Lugar de nacimiento,Cataluña,1,Castellano,2,1336.6,3987.7,33.51806805928229
+2023,Lengua habitual,Lugar de nacimiento,Cataluña,1,Catalán,0,2031.0,3987.7,50.931614715249395
+2023,Lengua habitual,Lugar de nacimiento,Cataluña,1,Catalán y castellano,1,503.3,3987.7,12.621310529879379
+2023,Lengua habitual,Lugar de nacimiento,Cataluña,1,Otras y no consta,3,93.3,3987.7,2.3396945607743813
+2023,Lengua habitual,Lugar de nacimiento,Extranjero,3,Castellano,2,945.3,1663.9,56.8123084319971
+2023,Lengua habitual,Lugar de nacimiento,Extranjero,3,Catalán,0,67.4,1663.9,4.050724202175612
+2023,Lengua habitual,Lugar de nacimiento,Extranjero,3,Catalán y castellano,1,45.8,1663.9,2.7525692649798663
+2023,Lengua habitual,Lugar de nacimiento,Extranjero,3,Otras y no consta,3,594.7,1663.9,35.74133060881063
+2023,Lengua habitual,Lugar de nacimiento,Resto de España,2,Castellano,2,872.8,1133.4,77.00723486853714
+2023,Lengua habitual,Lugar de nacimiento,Resto de España,2,Catalán,0,112.7,1133.4,9.943532733368626
+2023,Lengua habitual,Lugar de nacimiento,Resto de España,2,Catalán y castellano,1,87.3,1133.4,7.702488088935944
+2023,Lengua habitual,Lugar de nacimiento,Resto de España,2,Otras y no consta,3,50.0,1133.4,4.411505205576143
+2023,Lengua habitual,Lugar de nacimiento,total,99,Castellano,2,3154.7,6785.1,46.49452476750526
+2023,Lengua habitual,Lugar de nacimiento,total,99,Catalán,0,2211.1,6785.1,32.58758161265124
+2023,Lengua habitual,Lugar de nacimiento,total,99,Catalán y castellano,1,636.5,6785.1,9.380849213718294
+2023,Lengua habitual,Lugar de nacimiento,total,99,Otras y no consta,3,782.8000000000001,6785.1,11.537044406125187
+2008,Lengua habitual,Sexo,Hombres,1,Castellano,2,1409.0,3034.2,46.437281655790656
+2008,Lengua habitual,Sexo,Hombres,1,Catalán,0,1018.1,3034.2,33.55414936391801
+2008,Lengua habitual,Sexo,Hombres,1,Catalán y castellano,1,370.9,3034.2,12.223979961769164
+2008,Lengua habitual,Sexo,Hombres,1,Otras y no consta,3,236.10000000000002,3034.2,7.781293256871664
+2008,Lengua habitual,Sexo,Mujeres,2,Castellano,2,1421.0,3128.4,45.422580232706814
+2008,Lengua habitual,Sexo,Mujeres,2,Catalán,0,1178.5,3128.4,37.67101393683672
+2008,Lengua habitual,Sexo,Mujeres,2,Catalán y castellano,1,364.5,3128.4,11.65132336018412
+2008,Lengua habitual,Sexo,Mujeres,2,Otras y no consta,3,164.5,3128.4,5.258278992456208
+2008,Lengua habitual,Sexo,total,99,Castellano,2,2830.0,6162.5,45.92292089249493
+2008,Lengua habitual,Sexo,total,99,Catalán,0,2196.6,6162.5,35.644624746450305
+2008,Lengua habitual,Sexo,total,99,Catalán y castellano,1,736.7,6162.5,11.954563894523327
+2008,Lengua habitual,Sexo,total,99,Otras y no consta,3,609.7,6162.5,9.89371196754564
+2013,Lengua habitual,Sexo,Hombres,1,Castellano,2,1513.2,3044.9,49.69621334033958
+2013,Lengua habitual,Sexo,Hombres,1,Catalán,0,1104.6,3044.9,36.2770534336103
+2013,Lengua habitual,Sexo,Hombres,1,Catalán y castellano,1,200.2,3044.9,6.5749285690827275
+2013,Lengua habitual,Sexo,Hombres,1,Otras y no consta,3,214.8,3044.9,7.054418864330519
+2013,Lengua habitual,Sexo,Mujeres,2,Castellano,2,1659.4,3208.9,51.71242481847362
+2013,Lengua habitual,Sexo,Mujeres,2,Catalán,0,1165.0,3208.9,36.305275951260555
+2013,Lengua habitual,Sexo,Mujeres,2,Catalán y castellano,1,226.4,3208.9,7.055377232073296
+2013,Lengua habitual,Sexo,Mujeres,2,Otras y no consta,3,149.8,3208.9,4.6682663841191685
+2013,Lengua habitual,Sexo,total,99,Castellano,2,3172.6,6253.8,50.73075570053407
+2013,Lengua habitual,Sexo,total,99,Catalán,0,2269.6,6253.8,36.2915347468739
+2013,Lengua habitual,Sexo,total,99,Catalán y castellano,1,426.6,6253.8,6.821452556845438
+2013,Lengua habitual,Sexo,total,99,Otras y no consta,3,384.8,6253.8,6.15305894016438
+2018,Lengua habitual,Sexo,Hombres,1,Castellano,2,1509.6,3094.9,48.777020259135995
+2018,Lengua habitual,Sexo,Hombres,1,Catalán,0,1106.4,3094.9,35.74913567481987
+2018,Lengua habitual,Sexo,Hombres,1,Catalán y castellano,1,218.5,3094.9,7.060001938673301
+2018,Lengua habitual,Sexo,Hombres,1,Otras y no consta,3,260.5,3094.9,8.417073249539566
+2018,Lengua habitual,Sexo,Mujeres,2,Castellano,2,1595.0,3291.7,48.455205516906155
+2018,Lengua habitual,Sexo,Mujeres,2,Catalán,0,1198.7,3291.7,36.415833763708726
+2018,Lengua habitual,Sexo,Mujeres,2,Catalán y castellano,1,255.7,3291.7,7.768022602302762
+2018,Lengua habitual,Sexo,Mujeres,2,Otras y no consta,3,233.3,3291.7,7.087523164322388
+2018,Lengua habitual,Sexo,total,99,Castellano,2,3104.6,6386.6,48.61115460495412
+2018,Lengua habitual,Sexo,total,99,Catalán,0,2305.1,6386.6,36.092756709360216
+2018,Lengua habitual,Sexo,total,99,Catalán y castellano,1,474.2,6386.6,7.424920928193404
+2018,Lengua habitual,Sexo,total,99,Otras y no consta,3,502.8,6386.6,7.872733535840666
+2023,Lengua habitual,Sexo,Hombres,1,Castellano,2,1519.8,3312.0,45.88768115942029
+2023,Lengua habitual,Sexo,Hombres,1,Catalán,0,1092.0,3312.0,32.971014492753625
+2023,Lengua habitual,Sexo,Hombres,1,Catalán y castellano,1,295.5,3312.0,8.922101449275361
+2023,Lengua habitual,Sexo,Hombres,1,Otras y no consta,3,387.6,3312.0,11.702898550724639
+2023,Lengua habitual,Sexo,Mujeres,2,Castellano,2,1635.0,3473.0,47.077454650158366
+2023,Lengua habitual,Sexo,Mujeres,2,Catalán,0,1119.1,3473.0,32.22286207889432
+2023,Lengua habitual,Sexo,Mujeres,2,Catalán y castellano,1,340.9,3473.0,9.81572127843363
+2023,Lengua habitual,Sexo,Mujeres,2,Otras y no consta,3,363.2,3473.0,10.457817448891447
+2023,Lengua habitual,Sexo,total,99,Castellano,2,3154.7,6785.1,46.49452476750526
+2023,Lengua habitual,Sexo,total,99,Catalán,0,2211.1,6785.1,32.58758161265124
+2023,Lengua habitual,Sexo,total,99,Catalán y castellano,1,636.5,6785.1,9.380849213718294
+2023,Lengua habitual,Sexo,total,99,Otras y no consta,3,782.8000000000001,6785.1,11.537044406125187

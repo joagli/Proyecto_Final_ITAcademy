@@ -1,0 +1,456 @@
+año,tipo_segmento,segmento,orden_segmento,habilidad,pct
+2023,Sexo,Hombres,1,entender,93.1
+2023,Sexo,Hombres,1,saber hablar,80.9
+2023,Sexo,Hombres,1,saber leer,84.2
+2023,Sexo,Hombres,1,saber escribir,66.2
+2023,Sexo,Hombres,1,conocimiento en todas las habilidades,65.8
+2023,Sexo,Mujeres,2,entender,93.7
+2023,Sexo,Mujeres,2,saber hablar,79.9
+2023,Sexo,Mujeres,2,saber leer,84.1
+2023,Sexo,Mujeres,2,saber escribir,65.0
+2023,Sexo,Mujeres,2,conocimiento en todas las habilidades,64.5
+2023,Sexo,total,99,entender,93.4
+2023,Sexo,total,99,saber hablar,80.4
+2023,Sexo,total,99,saber leer,84.1
+2023,Sexo,total,99,saber escribir,65.6
+2023,Sexo,total,99,conocimiento en todas las habilidades,65.1
+2008,Sexo,Hombres,1,entender,94.7
+2008,Sexo,Hombres,1,saber hablar,77.9
+2008,Sexo,Hombres,1,saber leer,81.6
+2008,Sexo,Hombres,1,saber escribir,62.4
+2008,Sexo,Hombres,1,conocimiento en todas las habilidades,61.6
+2008,Sexo,Mujeres,2,entender,94.6
+2008,Sexo,Mujeres,2,saber hablar,78.6
+2008,Sexo,Mujeres,2,saber leer,81.8
+2008,Sexo,Mujeres,2,saber escribir,61.2
+2008,Sexo,Mujeres,2,conocimiento en todas las habilidades,60.6
+2008,Sexo,total,99,entender,94.6
+2008,Sexo,total,99,saber hablar,78.3
+2008,Sexo,total,99,saber leer,81.7
+2008,Sexo,total,99,saber escribir,61.8
+2008,Sexo,total,99,conocimiento en todas las habilidades,61.1
+2013,Sexo,Hombres,1,entender,94.3
+2013,Sexo,Hombres,1,saber hablar,81.7
+2013,Sexo,Hombres,1,saber leer,83.1
+2013,Sexo,Hombres,1,saber escribir,60.9
+2013,Sexo,Hombres,1,conocimiento en todas las habilidades,60.7
+2013,Sexo,Mujeres,2,entender,94.3
+2013,Sexo,Mujeres,2,saber hablar,79.1
+2013,Sexo,Mujeres,2,saber leer,81.7
+2013,Sexo,Mujeres,2,saber escribir,59.9
+2013,Sexo,Mujeres,2,conocimiento en todas las habilidades,59.7
+2013,Sexo,total,99,entender,94.3
+2013,Sexo,total,99,saber hablar,80.4
+2013,Sexo,total,99,saber leer,82.4
+2013,Sexo,total,99,saber escribir,60.4
+2013,Sexo,total,99,conocimiento en todas las habilidades,60.2
+2018,Sexo,Hombres,1,entender,94.9
+2018,Sexo,Hombres,1,saber hablar,82.7
+2018,Sexo,Hombres,1,saber leer,86.4
+2018,Sexo,Hombres,1,saber escribir,66.6
+2018,Sexo,Hombres,1,conocimiento en todas las habilidades,65.9
+2018,Sexo,Mujeres,2,entender,93.9
+2018,Sexo,Mujeres,2,saber hablar,79.8
+2018,Sexo,Mujeres,2,saber leer,84.7
+2018,Sexo,Mujeres,2,saber escribir,64.1
+2018,Sexo,Mujeres,2,conocimiento en todas las habilidades,63.4
+2018,Sexo,total,99,entender,94.4
+2018,Sexo,total,99,saber hablar,81.2
+2018,Sexo,total,99,saber leer,85.5
+2018,Sexo,total,99,saber escribir,65.3
+2018,Sexo,total,99,conocimiento en todas las habilidades,64.7
+2023,Lugar de nacimiento,Cataluña,1,entender,99.7
+2023,Lugar de nacimiento,Cataluña,1,saber hablar,97.8
+2023,Lugar de nacimiento,Cataluña,1,saber leer,97.5
+2023,Lugar de nacimiento,Cataluña,1,saber escribir,87.5
+2023,Lugar de nacimiento,Cataluña,1,conocimiento en todas las habilidades,87.4
+2023,Lugar de nacimiento,Resto de España,2,entender,91.4
+2023,Lugar de nacimiento,Resto de España,2,saber hablar,63.1
+2023,Lugar de nacimiento,Resto de España,2,saber leer,71.0
+2023,Lugar de nacimiento,Resto de España,2,saber escribir,32.6
+2023,Lugar de nacimiento,Resto de España,2,conocimiento en todas las habilidades,32.3
+2023,Lugar de nacimiento,Extranjero,3,entender,79.6
+2023,Lugar de nacimiento,Extranjero,3,saber hablar,50.5
+2023,Lugar de nacimiento,Extranjero,3,saber leer,61.2
+2023,Lugar de nacimiento,Extranjero,3,saber escribir,35.4
+2023,Lugar de nacimiento,Extranjero,3,conocimiento en todas las habilidades,34.1
+2023,Lugar de nacimiento,total,99,entender,93.4
+2023,Lugar de nacimiento,total,99,saber hablar,80.4
+2023,Lugar de nacimiento,total,99,saber leer,84.1
+2023,Lugar de nacimiento,total,99,saber escribir,65.6
+2023,Lugar de nacimiento,total,99,conocimiento en todas las habilidades,65.1
+2008,Lugar de nacimiento,Cataluña,1,entender,99.5
+2008,Lugar de nacimiento,Cataluña,1,saber hablar,96.4
+2008,Lugar de nacimiento,Cataluña,1,saber leer,96.6
+2008,Lugar de nacimiento,Cataluña,1,saber escribir,85.0
+2008,Lugar de nacimiento,Cataluña,1,conocimiento en todas las habilidades,84.6
+2008,Lugar de nacimiento,Resto de España,2,entender,92.5
+2008,Lugar de nacimiento,Resto de España,2,saber hablar,60.0
+2008,Lugar de nacimiento,Resto de España,2,saber leer,67.2
+2008,Lugar de nacimiento,Resto de España,2,saber escribir,31.4
+2008,Lugar de nacimiento,Resto de España,2,conocimiento en todas las habilidades,30.5
+2008,Lugar de nacimiento,Extranjero,3,entender,80.9
+2008,Lugar de nacimiento,Extranjero,3,saber hablar,42.0
+2008,Lugar de nacimiento,Extranjero,3,saber leer,51.0
+2008,Lugar de nacimiento,Extranjero,3,saber escribir,25.2
+2008,Lugar de nacimiento,Extranjero,3,conocimiento en todas las habilidades,24.0
+2008,Lugar de nacimiento,total,99,entender,94.6
+2008,Lugar de nacimiento,total,99,saber hablar,78.3
+2008,Lugar de nacimiento,total,99,saber leer,81.7
+2008,Lugar de nacimiento,total,99,saber escribir,61.8
+2008,Lugar de nacimiento,total,99,conocimiento en todas las habilidades,61.1
+2013,Lugar de nacimiento,Cataluña,1,entender,99.6
+2013,Lugar de nacimiento,Cataluña,1,saber hablar,98.1
+2013,Lugar de nacimiento,Cataluña,1,saber leer,97.4
+2013,Lugar de nacimiento,Cataluña,1,saber escribir,83.8
+2013,Lugar de nacimiento,Cataluña,1,conocimiento en todas las habilidades,83.7
+2013,Lugar de nacimiento,Resto de España,2,entender,89.9
+2013,Lugar de nacimiento,Resto de España,2,saber hablar,56.8
+2013,Lugar de nacimiento,Resto de España,2,saber leer,62.1
+2013,Lugar de nacimiento,Resto de España,2,saber escribir,23.0
+2013,Lugar de nacimiento,Resto de España,2,conocimiento en todas las habilidades,22.7
+2013,Lugar de nacimiento,Extranjero,3,entender,82.8
+2013,Lugar de nacimiento,Extranjero,3,saber hablar,52.8
+2013,Lugar de nacimiento,Extranjero,3,saber leer,59.4
+2013,Lugar de nacimiento,Extranjero,3,saber escribir,31.7
+2013,Lugar de nacimiento,Extranjero,3,conocimiento en todas las habilidades,31.4
+2013,Lugar de nacimiento,total,99,entender,94.3
+2013,Lugar de nacimiento,total,99,saber hablar,80.4
+2013,Lugar de nacimiento,total,99,saber leer,82.4
+2013,Lugar de nacimiento,total,99,saber escribir,60.4
+2013,Lugar de nacimiento,total,99,conocimiento en todas las habilidades,60.2
+2018,Lugar de nacimiento,Cataluña,1,entender,99.8
+2018,Lugar de nacimiento,Cataluña,1,saber hablar,98.2
+2018,Lugar de nacimiento,Cataluña,1,saber leer,98.0
+2018,Lugar de nacimiento,Cataluña,1,saber escribir,87.2
+2018,Lugar de nacimiento,Cataluña,1,conocimiento en todas las habilidades,87.1
+2018,Lugar de nacimiento,Resto de España,2,entender,91.5
+2018,Lugar de nacimiento,Resto de España,2,saber hablar,61.1
+2018,Lugar de nacimiento,Resto de España,2,saber leer,69.6
+2018,Lugar de nacimiento,Resto de España,2,saber escribir,27.9
+2018,Lugar de nacimiento,Resto de España,2,conocimiento en todas las habilidades,27.3
+2018,Lugar de nacimiento,Extranjero,3,entender,81.3
+2018,Lugar de nacimiento,Extranjero,3,saber hablar,51.0
+2018,Lugar de nacimiento,Extranjero,3,saber leer,64.6
+2018,Lugar de nacimiento,Extranjero,3,saber escribir,37.5
+2018,Lugar de nacimiento,Extranjero,3,conocimiento en todas las habilidades,35.2
+2018,Lugar de nacimiento,total,99,entender,94.4
+2018,Lugar de nacimiento,total,99,saber hablar,81.2
+2018,Lugar de nacimiento,total,99,saber leer,85.5
+2018,Lugar de nacimiento,total,99,saber escribir,65.3
+2018,Lugar de nacimiento,total,99,conocimiento en todas las habilidades,64.7
+2023,Edad,De 15 a 19 años,15,entender,98.4
+2023,Edad,De 15 a 19 años,15,saber hablar,97.5
+2023,Edad,De 15 a 19 años,15,saber leer,97.4
+2023,Edad,De 15 a 19 años,15,saber escribir,92.4
+2023,Edad,De 15 a 19 años,15,conocimiento en todas las habilidades,92.3
+2023,Edad,De 20 a 24 años,20,entender,95.5
+2023,Edad,De 20 a 24 años,20,saber hablar,90.4
+2023,Edad,De 20 a 24 años,20,saber leer,92.6
+2023,Edad,De 20 a 24 años,20,saber escribir,84.2
+2023,Edad,De 20 a 24 años,20,conocimiento en todas las habilidades,84.0
+2023,Edad,De 25 a 29 años,25,entender,92.3
+2023,Edad,De 25 a 29 años,25,saber hablar,79.4
+2023,Edad,De 25 a 29 años,25,saber leer,83.7
+2023,Edad,De 25 a 29 años,25,saber escribir,72.9
+2023,Edad,De 25 a 29 años,25,conocimiento en todas las habilidades,71.7
+2023,Edad,De 30 a 34 años,30,entender,92.7
+2023,Edad,De 30 a 34 años,30,saber hablar,78.8
+2023,Edad,De 30 a 34 años,30,saber leer,84.3
+2023,Edad,De 30 a 34 años,30,saber escribir,68.6
+2023,Edad,De 30 a 34 años,30,conocimiento en todas las habilidades,68.3
+2023,Edad,De 35 a 39 años,35,entender,92.6
+2023,Edad,De 35 a 39 años,35,saber hablar,77.1
+2023,Edad,De 35 a 39 años,35,saber leer,83.7
+2023,Edad,De 35 a 39 años,35,saber escribir,68.0
+2023,Edad,De 35 a 39 años,35,conocimiento en todas las habilidades,67.3
+2023,Edad,De 40 a 44 años,40,entender,91.8
+2023,Edad,De 40 a 44 años,40,saber hablar,79.2
+2023,Edad,De 40 a 44 años,40,saber leer,84.3
+2023,Edad,De 40 a 44 años,40,saber escribir,69.4
+2023,Edad,De 40 a 44 años,40,conocimiento en todas las habilidades,68.9
+2023,Edad,De 45 a 49 años,45,entender,94.5
+2023,Edad,De 45 a 49 años,45,saber hablar,81.3
+2023,Edad,De 45 a 49 años,45,saber leer,86.0
+2023,Edad,De 45 a 49 años,45,saber escribir,72.5
+2023,Edad,De 45 a 49 años,45,conocimiento en todas las habilidades,71.4
+2023,Edad,De 50 a 54 años,50,entender,93.3
+2023,Edad,De 50 a 54 años,50,saber hablar,79.3
+2023,Edad,De 50 a 54 años,50,saber leer,84.6
+2023,Edad,De 50 a 54 años,50,saber escribir,68.8
+2023,Edad,De 50 a 54 años,50,conocimiento en todas las habilidades,68.6
+2023,Edad,De 55 a 59 años,55,entender,92.6
+2023,Edad,De 55 a 59 años,55,saber hablar,79.6
+2023,Edad,De 55 a 59 años,55,saber leer,83.2
+2023,Edad,De 55 a 59 años,55,saber escribir,63.4
+2023,Edad,De 55 a 59 años,55,conocimiento en todas las habilidades,62.7
+2023,Edad,De 60 a 64 años,60,entender,94.1
+2023,Edad,De 60 a 64 años,60,saber hablar,80.3
+2023,Edad,De 60 a 64 años,60,saber leer,85.6
+2023,Edad,De 60 a 64 años,60,saber escribir,57.0
+2023,Edad,De 60 a 64 años,60,conocimiento en todas las habilidades,56.9
+2023,Edad,De 65 a 69 años,65,entender,95.1
+2023,Edad,De 65 a 69 años,65,saber hablar,81.9
+2023,Edad,De 65 a 69 años,65,saber leer,86.2
+2023,Edad,De 65 a 69 años,65,saber escribir,58.0
+2023,Edad,De 65 a 69 años,65,conocimiento en todas las habilidades,57.8
+2023,Edad,De 70 a 74 años,70,entender,93.6
+2023,Edad,De 70 a 74 años,70,saber hablar,74.6
+2023,Edad,De 70 a 74 años,70,saber leer,76.5
+2023,Edad,De 70 a 74 años,70,saber escribir,46.3
+2023,Edad,De 70 a 74 años,70,conocimiento en todas las habilidades,46.2
+2023,Edad,De 75 a 79 años,75,entender,94.2
+2023,Edad,De 75 a 79 años,75,saber hablar,73.0
+2023,Edad,De 75 a 79 años,75,saber leer,74.3
+2023,Edad,De 75 a 79 años,75,saber escribir,38.2
+2023,Edad,De 75 a 79 años,75,conocimiento en todas las habilidades,38.2
+2023,Edad,De 80 a 84 años,80,entender,88.6
+2023,Edad,De 80 a 84 años,80,saber hablar,72.5
+2023,Edad,De 80 a 84 años,80,saber leer,72.9
+2023,Edad,De 80 a 84 años,80,saber escribir,36.6
+2023,Edad,De 80 a 84 años,80,conocimiento en todas las habilidades,36.1
+2023,Edad,De 85 a 89 años,85,entender,83.3
+2023,Edad,De 85 a 89 años,85,saber hablar,64.2
+2023,Edad,De 85 a 89 años,85,saber leer,61.6
+2023,Edad,De 85 a 89 años,85,saber escribir,35.8
+2023,Edad,De 85 a 89 años,85,conocimiento en todas las habilidades,35.8
+2023,Edad,90 años o más,90,entender,85.8
+2023,Edad,90 años o más,90,saber hablar,70.4
+2023,Edad,90 años o más,90,saber leer,67.5
+2023,Edad,90 años o más,90,saber escribir,37.2
+2023,Edad,90 años o más,90,conocimiento en todas las habilidades,37.2
+2023,Edad,total,99,entender,93.4
+2023,Edad,total,99,saber hablar,80.4
+2023,Edad,total,99,saber leer,84.1
+2023,Edad,total,99,saber escribir,65.6
+2023,Edad,total,99,conocimiento en todas las habilidades,65.1
+2013,Edad,De 15 a 19 años,15,entender,100.0
+2013,Edad,De 15 a 19 años,15,saber hablar,95.6
+2013,Edad,De 15 a 19 años,15,saber leer,95.0
+2013,Edad,De 15 a 19 años,15,saber escribir,93.1
+2013,Edad,De 15 a 19 años,15,conocimiento en todas las habilidades,93.1
+2013,Edad,De 20 a 24 años,20,entender,98.2
+2013,Edad,De 20 a 24 años,20,saber hablar,95.3
+2013,Edad,De 20 a 24 años,20,saber leer,96.1
+2013,Edad,De 20 a 24 años,20,saber escribir,95.0
+2013,Edad,De 20 a 24 años,20,conocimiento en todas las habilidades,94.8
+2013,Edad,De 25 a 29 años,25,entender,92.7
+2013,Edad,De 25 a 29 años,25,saber hablar,86.8
+2013,Edad,De 25 a 29 años,25,saber leer,88.4
+2013,Edad,De 25 a 29 años,25,saber escribir,80.5
+2013,Edad,De 25 a 29 años,25,conocimiento en todas las habilidades,80.5
+2013,Edad,De 30 a 34 años,30,entender,94.3
+2013,Edad,De 30 a 34 años,30,saber hablar,81.5
+2013,Edad,De 30 a 34 años,30,saber leer,84.1
+2013,Edad,De 30 a 34 años,30,saber escribir,70.3
+2013,Edad,De 30 a 34 años,30,conocimiento en todas las habilidades,70.0
+2013,Edad,De 35 a 39 años,35,entender,95.2
+2013,Edad,De 35 a 39 años,35,saber hablar,82.1
+2013,Edad,De 35 a 39 años,35,saber leer,84.4
+2013,Edad,De 35 a 39 años,35,saber escribir,73.5
+2013,Edad,De 35 a 39 años,35,conocimiento en todas las habilidades,73.3
+2013,Edad,De 40 a 44 años,40,entender,96.1
+2013,Edad,De 40 a 44 años,40,saber hablar,83.9
+2013,Edad,De 40 a 44 años,40,saber leer,87.0
+2013,Edad,De 40 a 44 años,40,saber escribir,73.2
+2013,Edad,De 40 a 44 años,40,conocimiento en todas las habilidades,72.6
+2013,Edad,De 45 a 49 años,45,entender,93.5
+2013,Edad,De 45 a 49 años,45,saber hablar,81.5
+2013,Edad,De 45 a 49 años,45,saber leer,86.4
+2013,Edad,De 45 a 49 años,45,saber escribir,66.7
+2013,Edad,De 45 a 49 años,45,conocimiento en todas las habilidades,66.4
+2013,Edad,De 50 a 54 años,50,entender,96.8
+2013,Edad,De 50 a 54 años,50,saber hablar,85.7
+2013,Edad,De 50 a 54 años,50,saber leer,87.7
+2013,Edad,De 50 a 54 años,50,saber escribir,56.2
+2013,Edad,De 50 a 54 años,50,conocimiento en todas las habilidades,56.2
+2013,Edad,De 55 a 59 años,55,entender,95.1
+2013,Edad,De 55 a 59 años,55,saber hablar,79.8
+2013,Edad,De 55 a 59 años,55,saber leer,81.6
+2013,Edad,De 55 a 59 años,55,saber escribir,47.1
+2013,Edad,De 55 a 59 años,55,conocimiento en todas las habilidades,47.1
+2013,Edad,De 60 a 64 años,60,entender,95.4
+2013,Edad,De 60 a 64 años,60,saber hablar,75.3
+2013,Edad,De 60 a 64 años,60,saber leer,82.4
+2013,Edad,De 60 a 64 años,60,saber escribir,39.7
+2013,Edad,De 60 a 64 años,60,conocimiento en todas las habilidades,39.5
+2013,Edad,De 65 a 69 años,65,entender,92.8
+2013,Edad,De 65 a 69 años,65,saber hablar,70.1
+2013,Edad,De 65 a 69 años,65,saber leer,72.6
+2013,Edad,De 65 a 69 años,65,saber escribir,33.6
+2013,Edad,De 65 a 69 años,65,conocimiento en todas las habilidades,33.6
+2013,Edad,De 70 a 74 años,70,entender,92.0
+2013,Edad,De 70 a 74 años,70,saber hablar,69.5
+2013,Edad,De 70 a 74 años,70,saber leer,70.6
+2013,Edad,De 70 a 74 años,70,saber escribir,29.1
+2013,Edad,De 70 a 74 años,70,conocimiento en todas las habilidades,28.6
+2013,Edad,De 75 a 79 años,75,entender,90.4
+2013,Edad,De 75 a 79 años,75,saber hablar,59.5
+2013,Edad,De 75 a 79 años,75,saber leer,58.6
+2013,Edad,De 75 a 79 años,75,saber escribir,25.5
+2013,Edad,De 75 a 79 años,75,conocimiento en todas las habilidades,25.5
+2013,Edad,De 80 a 84 años,80,entender,89.4
+2013,Edad,De 80 a 84 años,80,saber hablar,66.6
+2013,Edad,De 80 a 84 años,80,saber leer,61.1
+2013,Edad,De 80 a 84 años,80,saber escribir,27.6
+2013,Edad,De 80 a 84 años,80,conocimiento en todas las habilidades,27.6
+2013,Edad,De 85 a 89 años,85,entender,79.3
+2013,Edad,De 85 a 89 años,85,saber hablar,59.8
+2013,Edad,De 85 a 89 años,85,saber leer,52.7
+2013,Edad,De 85 a 89 años,85,saber escribir,21.4
+2013,Edad,De 85 a 89 años,85,conocimiento en todas las habilidades,21.4
+2013,Edad,90 años o más,90,entender,85.1
+2013,Edad,90 años o más,90,saber hablar,73.7
+2013,Edad,90 años o más,90,saber leer,68.8
+2013,Edad,90 años o más,90,saber escribir,41.9
+2013,Edad,90 años o más,90,conocimiento en todas las habilidades,41.9
+2013,Edad,total,99,entender,94.3
+2013,Edad,total,99,saber hablar,80.4
+2013,Edad,total,99,saber leer,82.4
+2013,Edad,total,99,saber escribir,60.4
+2013,Edad,total,99,conocimiento en todas las habilidades,60.2
+2018,Edad,De 15 a 19 años,15,entender,98.5
+2018,Edad,De 15 a 19 años,15,saber hablar,96.3
+2018,Edad,De 15 a 19 años,15,saber leer,97.1
+2018,Edad,De 15 a 19 años,15,saber escribir,94.7
+2018,Edad,De 15 a 19 años,15,conocimiento en todas las habilidades,94.4
+2018,Edad,De 20 a 24 años,20,entender,96.3
+2018,Edad,De 20 a 24 años,20,saber hablar,92.2
+2018,Edad,De 20 a 24 años,20,saber leer,95.3
+2018,Edad,De 20 a 24 años,20,saber escribir,91.0
+2018,Edad,De 20 a 24 años,20,conocimiento en todas las habilidades,90.6
+2018,Edad,De 25 a 29 años,25,entender,92.3
+2018,Edad,De 25 a 29 años,25,saber hablar,84.6
+2018,Edad,De 25 a 29 años,25,saber leer,88.8
+2018,Edad,De 25 a 29 años,25,saber escribir,80.6
+2018,Edad,De 25 a 29 años,25,conocimiento en todas las habilidades,80.3
+2018,Edad,De 30 a 34 años,30,entender,92.4
+2018,Edad,De 30 a 34 años,30,saber hablar,82.3
+2018,Edad,De 30 a 34 años,30,saber leer,87.6
+2018,Edad,De 30 a 34 años,30,saber escribir,75.3
+2018,Edad,De 30 a 34 años,30,conocimiento en todas las habilidades,74.6
+2018,Edad,De 35 a 39 años,35,entender,93.4
+2018,Edad,De 35 a 39 años,35,saber hablar,80.2
+2018,Edad,De 35 a 39 años,35,saber leer,85.5
+2018,Edad,De 35 a 39 años,35,saber escribir,70.9
+2018,Edad,De 35 a 39 años,35,conocimiento en todas las habilidades,70.1
+2018,Edad,De 40 a 44 años,40,entender,94.1
+2018,Edad,De 40 a 44 años,40,saber hablar,81.4
+2018,Edad,De 40 a 44 años,40,saber leer,87.6
+2018,Edad,De 40 a 44 años,40,saber escribir,74.6
+2018,Edad,De 40 a 44 años,40,conocimiento en todas las habilidades,73.2
+2018,Edad,De 45 a 49 años,45,entender,95.5
+2018,Edad,De 45 a 49 años,45,saber hablar,81.6
+2018,Edad,De 45 a 49 años,45,saber leer,87.9
+2018,Edad,De 45 a 49 años,45,saber escribir,71.0
+2018,Edad,De 45 a 49 años,45,conocimiento en todas las habilidades,70.0
+2018,Edad,De 50 a 54 años,50,entender,96.7
+2018,Edad,De 50 a 54 años,50,saber hablar,85.0
+2018,Edad,De 50 a 54 años,50,saber leer,89.2
+2018,Edad,De 50 a 54 años,50,saber escribir,67.8
+2018,Edad,De 50 a 54 años,50,conocimiento en todas las habilidades,66.9
+2018,Edad,De 55 a 59 años,55,entender,95.8
+2018,Edad,De 55 a 59 años,55,saber hablar,80.7
+2018,Edad,De 55 a 59 años,55,saber leer,87.0
+2018,Edad,De 55 a 59 años,55,saber escribir,57.8
+2018,Edad,De 55 a 59 años,55,conocimiento en todas las habilidades,57.2
+2018,Edad,De 60 a 64 años,60,entender,92.9
+2018,Edad,De 60 a 64 años,60,saber hablar,75.1
+2018,Edad,De 60 a 64 años,60,saber leer,80.1
+2018,Edad,De 60 a 64 años,60,saber escribir,48.4
+2018,Edad,De 60 a 64 años,60,conocimiento en todas las habilidades,48.4
+2018,Edad,De 65 a 69 años,65,entender,94.3
+2018,Edad,De 65 a 69 años,65,saber hablar,74.8
+2018,Edad,De 65 a 69 años,65,saber leer,77.8
+2018,Edad,De 65 a 69 años,65,saber escribir,41.4
+2018,Edad,De 65 a 69 años,65,conocimiento en todas las habilidades,40.9
+2018,Edad,De 70 a 74 años,70,entender,95.1
+2018,Edad,De 70 a 74 años,70,saber hablar,73.8
+2018,Edad,De 70 a 74 años,70,saber leer,77.0
+2018,Edad,De 70 a 74 años,70,saber escribir,43.1
+2018,Edad,De 70 a 74 años,70,conocimiento en todas las habilidades,42.2
+2018,Edad,De 75 a 79 años,75,entender,91.7
+2018,Edad,De 75 a 79 años,75,saber hablar,73.1
+2018,Edad,De 75 a 79 años,75,saber leer,73.0
+2018,Edad,De 75 a 79 años,75,saber escribir,37.1
+2018,Edad,De 75 a 79 años,75,conocimiento en todas las habilidades,37.1
+2018,Edad,De 80 a 84 años,80,entender,89.3
+2018,Edad,De 80 a 84 años,80,saber hablar,71.5
+2018,Edad,De 80 a 84 años,80,saber leer,73.8
+2018,Edad,De 80 a 84 años,80,saber escribir,37.8
+2018,Edad,De 80 a 84 años,80,conocimiento en todas las habilidades,37.8
+2018,Edad,De 85 a 89 años,85,entender,90.8
+2018,Edad,De 85 a 89 años,85,saber hablar,72.1
+2018,Edad,De 85 a 89 años,85,saber leer,76.0
+2018,Edad,De 85 a 89 años,85,saber escribir,36.7
+2018,Edad,De 85 a 89 años,85,conocimiento en todas las habilidades,36.7
+2018,Edad,90 años o más,90,entender,89.2
+2018,Edad,90 años o más,90,saber hablar,70.6
+2018,Edad,90 años o más,90,saber leer,69.4
+2018,Edad,90 años o más,90,saber escribir,47.7
+2018,Edad,90 años o más,90,conocimiento en todas las habilidades,47.7
+2018,Edad,total,99,entender,94.4
+2018,Edad,total,99,saber hablar,81.2
+2018,Edad,total,99,saber leer,85.5
+2018,Edad,total,99,saber escribir,65.3
+2018,Edad,total,99,conocimiento en todas las habilidades,64.7
+2008,Edad,De 15 a 19 años,15,entender,97.9
+2008,Edad,De 15 a 19 años,15,saber hablar,93.1
+2008,Edad,De 15 a 19 años,15,saber leer,94.5
+2008,Edad,De 15 a 19 años,15,saber escribir,91.8
+2008,Edad,De 15 a 19 años,15,conocimiento en todas las habilidades,90.4
+2008,Edad,De 20 a 24 años,20,entender,95.1
+2008,Edad,De 20 a 24 años,20,saber hablar,82.6
+2008,Edad,De 20 a 24 años,20,saber leer,84.9
+2008,Edad,De 20 a 24 años,20,saber escribir,78.6
+2008,Edad,De 20 a 24 años,20,conocimiento en todas las habilidades,78.2
+2008,Edad,De 25 a 29 años,25,entender,92.0
+2008,Edad,De 25 a 29 años,25,saber hablar,80.6
+2008,Edad,De 25 a 29 años,25,saber leer,82.0
+2008,Edad,De 25 a 29 años,25,saber escribir,73.4
+2008,Edad,De 25 a 29 años,25,conocimiento en todas las habilidades,72.9
+2008,Edad,De 30 a 34 años,30,entender,93.9
+2008,Edad,De 30 a 34 años,30,saber hablar,79.0
+2008,Edad,De 30 a 34 años,30,saber leer,82.5
+2008,Edad,De 30 a 34 años,30,saber escribir,71.5
+2008,Edad,De 30 a 34 años,30,conocimiento en todas las habilidades,70.5
+2008,Edad,De 35 a 39 años,35,entender,94.7
+2008,Edad,De 35 a 39 años,35,saber hablar,77.1
+2008,Edad,De 35 a 39 años,35,saber leer,83.8
+2008,Edad,De 35 a 39 años,35,saber escribir,70.4
+2008,Edad,De 35 a 39 años,35,conocimiento en todas las habilidades,70.0
+2008,Edad,De 40 a 44 años,40,entender,94.1
+2008,Edad,De 40 a 44 años,40,saber hablar,78.6
+2008,Edad,De 40 a 44 años,40,saber leer,82.9
+2008,Edad,De 40 a 44 años,40,saber escribir,65.3
+2008,Edad,De 40 a 44 años,40,conocimiento en todas las habilidades,63.9
+2008,Edad,De 45 a 49 años,45,entender,95.4
+2008,Edad,De 45 a 49 años,45,saber hablar,77.0
+2008,Edad,De 45 a 49 años,45,saber leer,83.4
+2008,Edad,De 45 a 49 años,45,saber escribir,59.0
+2008,Edad,De 45 a 49 años,45,conocimiento en todas las habilidades,58.4
+2008,Edad,De 50 a 54 años,50,entender,96.0
+2008,Edad,De 50 a 54 años,50,saber hablar,76.9
+2008,Edad,De 50 a 54 años,50,saber leer,80.7
+2008,Edad,De 50 a 54 años,50,saber escribir,51.6
+2008,Edad,De 50 a 54 años,50,conocimiento en todas las habilidades,51.4
+2008,Edad,De 55 a 59 años,55,entender,98.0
+2008,Edad,De 55 a 59 años,55,saber hablar,78.3
+2008,Edad,De 55 a 59 años,55,saber leer,82.2
+2008,Edad,De 55 a 59 años,55,saber escribir,49.1
+2008,Edad,De 55 a 59 años,55,conocimiento en todas las habilidades,48.6
+2008,Edad,De 60 a 64 años,60,entender,95.0
+2008,Edad,De 60 a 64 años,60,saber hablar,76.9
+2008,Edad,De 60 a 64 años,60,saber leer,80.5
+2008,Edad,De 60 a 64 años,60,saber escribir,47.4
+2008,Edad,De 60 a 64 años,60,conocimiento en todas las habilidades,46.7
+2008,Edad,65 años o más,65,entender,93.1
+2008,Edad,65 años o más,65,saber hablar,72.3
+2008,Edad,65 años o más,65,saber leer,73.7
+2008,Edad,65 años o más,65,saber escribir,42.8
+2008,Edad,65 años o más,65,conocimiento en todas las habilidades,42.5
+2008,Edad,total,99,entender,94.6
+2008,Edad,total,99,saber hablar,78.3
+2008,Edad,total,99,saber leer,81.7
+2008,Edad,total,99,saber escribir,61.8
+2008,Edad,total,99,conocimiento en todas las habilidades,61.1

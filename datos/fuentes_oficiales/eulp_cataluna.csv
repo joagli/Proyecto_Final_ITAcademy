@@ -1,0 +1,6 @@
+anio,poblacion_15mas_miles,lengua_inicial_catalan_miles,lengua_inicial_catalan_pct,lengua_habitual_catalan_pct,lengua_habitual_castellano_pct,fuente
+2003,5619.5,2036.2,36.2,46.0,,"Idescat, EULP, datos enlazados 2003-2008-2013 (tablas n=7198 y n=7218), comparables con 2008 y 2013. Valores originales de 2003, no comparables (tablas n=1049 y n=1059): población 5471.2 miles, lengua inicial catalán 40.5%, lengua habitual catalán 50.1%"
+2008,6162.5,1949.5,31.6,35.6,,"Idescat, EULP, datos enlazados 2003-2008-2013 (tablas n=7198 y n=7218)"
+2013,6253.8,1940.0,31.0,36.3,50.7,"Idescat, EULP, datos enlazados 2003-2008-2013 (tablas n=7198 y n=7218)"
+2018,6386.6,2010.4,31.5,36.1,48.6,"Idescat, EULP 2018: indicador n=10364 (población y lengua inicial) y tabla de lengua habitual por lugar de nacimiento (eulp2989cat, en datos/originales/idescat_eulp)"
+2023,6785.1,1967.3,29.0,32.6,46.5,"Idescat, EULP 2023: indicadores n=10364 y n=15781 (población, lengua inicial y habitual)"

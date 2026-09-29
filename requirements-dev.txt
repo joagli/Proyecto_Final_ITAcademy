@@ -1,0 +1,3 @@
+-r requirements.txt
+playwright>=1.48
+shapely>=2.0    # solo para src/preparar_mapa.py (unión y simplificación de geometrías)
